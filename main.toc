@@ -1,0 +1,39 @@
+\contentsline {chapter}{RESUMEN}{i}{}%
+\contentsline {chapter}{ÍNDICE DE FIGURAS}{v}{}%
+\contentsline {chapter}{ÍNDICE DE TABLAS}{vii}{}%
+\contentsline {chapter}{SIGLAS}{ix}{}%
+\contentsline {chapter}{ABREVIATURAS}{xi}{}%
+\contentsline {chapter}{NOMENCLATURA}{xiii}{}%
+\contentsline {chapter}{CAPÍTULO \,1.\MakeUppercase []{ Introducción }}{1}{}%
+\contentsline {section}{\numberline {1.1}Planteamiento del problema}{1}{}%
+\contentsline {section}{\numberline {1.2}Antecedentes}{2}{}%
+\contentsline {section}{\numberline {1.3}Alcances y limitaciones}{3}{}%
+\contentsline {subsection}{\numberline {1.3.1}Alcances}{3}{}%
+\contentsline {subsection}{\numberline {1.3.2}Limitaciones}{3}{}%
+\contentsline {section}{\numberline {1.4}Objetivos}{4}{}%
+\contentsline {subsection}{\numberline {1.4.1}Objetivo general}{4}{}%
+\contentsline {subsection}{\numberline {1.4.2}Objetivos específicos}{4}{}%
+\contentsline {chapter}{CAPÍTULO \,2.\MakeUppercase []{ Marco teórico }}{5}{}%
+\contentsline {section}{\numberline {2.1}¿Qué es el ruido?}{5}{}%
+\contentsline {section}{\numberline {2.2}El impacto del ruido fuerte en la salud}{5}{}%
+\contentsline {subsection}{\numberline {2.2.1}Normativa de ruido según la OMS}{6}{}%
+\contentsline {section}{\numberline {2.3}Contaminación sonora y sus consecuencias}{7}{}%
+\contentsline {section}{\numberline {2.4}Efecto del ruido en los estudiantes y su aprendizaje}{8}{}%
+\contentsline {section}{\numberline {2.5}Sistema de monitoreo de ruido}{10}{}%
+\contentsline {section}{\numberline {2.6}Beneficios de un sistema de monitoreo de ruido}{11}{}%
+\contentsline {section}{\numberline {2.7}Websockets}{12}{}%
+\contentsline {subsection}{\numberline {2.7.1}¿qué es un websocket?}{12}{}%
+\contentsline {chapter}{CAPÍTULO \,3.\MakeUppercase []{ Metodología }}{15}{}%
+\contentsline {section}{\numberline {3.1} Metodologia Scrum }{15}{}%
+\contentsline {subsection}{\numberline {3.1.1}Proceso SCRUM}{15}{}%
+\contentsline {subsection}{\numberline {3.1.2}Organización}{17}{}%
+\contentsline {chapter}{CAPÍTULO \,4.\MakeUppercase []{ Presentación, análisis e interpretación de resultados }}{19}{}%
+\contentsline {chapter}{CAPÍTULO \,5.\MakeUppercase []{ Formato de los trabajos }}{21}{}%
+\contentsline {chapter}{CAPÍTULO \,6.\MakeUppercase []{ Conclusiones y Recomendaciones }}{25}{}%
+\contentsline {section}{\numberline {6.1}Conclusiones}{25}{}%
+\contentsline {section}{\numberline {6.2}Recomendaciones}{25}{}%
+\contentsline {chapter}{GLOSARIO}{27}{}%
+\contentsline {chapter}{REFERENCIAS}{29}{}%
+\vspace {\baselineskip }
+\textbf {\MakeUppercase []{anexos}}\\
+ANEXO \MakeUppercase []{a}.\hspace {1em}\parbox [t]{380pt}{\strut anexos\strut }\\ 
