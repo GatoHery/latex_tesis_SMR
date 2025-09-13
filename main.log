@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.1)  13 SEP 2025 15:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.1)  13 SEP 2025 16:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -885,12 +885,7 @@ LaTeX Font Info:    Trying to load font information for T1+ptm on input line 17
 (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
-(main.aux
-\g__glossaries_gls_ref_siglas_int=\count488
-\g__glossaries_gls_ref_abreviaturas_int=\count489
-\g__glossaries_gls_ref_nomenclatura_int=\count490
-\g__glossaries_gls_ref_glosario_int=\count491
-)
+No file main.aux.
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 171.
@@ -911,16 +906,16 @@ LaTeX Font Info:    ... okay on input line 171.
 (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count492
+\scratchcounter=\count488
 \scratchdimen=\dimen268
 \scratchbox=\box68
-\nofMPsegments=\count493
-\nofMParguments=\count494
+\nofMPsegments=\count489
+\nofMParguments=\count490
 \everyMPshowfont=\toks51
-\MPscratchCnt=\count495
+\MPscratchCnt=\count491
 \MPscratchDim=\dimen269
-\MPnumerator=\count496
-\makeMPintoPDFobject=\count497
+\MPnumerator=\count492
+\makeMPintoPDFobject=\count493
 \everyMPtoPDFconversion=\toks52
 )
 (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
@@ -1022,84 +1017,48 @@ i/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./img/Logo_UCA_20
 
 ] [2
 
-] (main.toc)
+]
+No file main.toc.
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [3] [4
+[3] [4
 
-] (main.lof)
+]
+No file main.lof.
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- [5] [6
+[5] [6
 
 ]
-(main.lot)
+No file main.lot.
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
- [7] [8
+[7] [8
 
 ]
 
-Package glossaries Info: Preparing to sort glossary `siglas' (total number of
-(glossaries)             referenced entries: 1)
-
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 237.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 237
-.
-(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 237
-.
-
-(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Overfull \hbox (10.37393pt too wide) in paragraph at lines 237--237
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 237--237
-
- []
+Package glossaries Warning: Empty glossary for \printnoidxglossary[type={siglas
+}]. Rerun may be required (or you may have forgotten to use commands like \gls)
+ on input line 237.
 
 [9] [10
 
 ]
 
-Package glossaries Info: Preparing to sort glossary `abreviaturas' (total
-(glossaries)             number of referenced entries: 1)
-
-
-Overfull \hbox (40.0187pt too wide) in paragraph at lines 243--243
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 243--243
-
- []
+Package glossaries Warning: Empty glossary for \printnoidxglossary[type={abrevi
+aturas}]. Rerun may be required (or you may have forgotten to use commands like
+ \gls) on input line 243.
 
 [11] [12
 
 ]
 
-Package glossaries Info: Preparing to sort glossary `nomenclatura' (total
-(glossaries)             number of referenced entries: 1)
-
-
-Overfull \hbox (50.07259pt too wide) in paragraph at lines 249--249
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 249--249
-
- []
+Package glossaries Warning: Empty glossary for \printnoidxglossary[type={nomenc
+latura}]. Rerun may be required (or you may have forgotten to use commands like
+ \gls) on input line 249.
 
 [13] [14]
 
@@ -1125,7 +1084,7 @@ LaTeX Warning: Citation 'epacartagena2015' on page 2 undefined on input line 26
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
-<img/SMI_cartagena.png, id=73, 743.77875pt x 375.4025pt>
+<img/SMI_cartagena.png, id=71, 743.77875pt x 375.4025pt>
 File: img/SMI_cartagena.png Graphic file (type png)
 <use img/SMI_cartagena.png>
 Package pdftex.def Info: img/SMI_cartagena.png  used on input line 262.
@@ -1147,7 +1106,7 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3 <./img/SMI_cartagena.png>] [4]
-<img/Oido.jpg, id=82, 722.7pt x 534.49687pt>
+<img/Oido.jpg, id=80, 722.7pt x 534.49687pt>
 File: img/Oido.jpg Graphic file (type jpg)
 <use img/Oido.jpg>
 Package pdftex.def Info: img/Oido.jpg  used on input line 262.
@@ -1211,7 +1170,7 @@ input line 262.
 
 LaTeX Warning: Citation 'carpio2025' on page 10 undefined on input line 262.
 
-<img/sensor_MAX.png, id=99, 768.8725pt x 804.00375pt>
+<img/sensor_MAX.png, id=97, 768.8725pt x 804.00375pt>
 File: img/sensor_MAX.png Graphic file (type png)
 <use img/sensor_MAX.png>
 Package pdftex.def Info: img/sensor_MAX.png  used on input line 262.
@@ -1229,6 +1188,17 @@ I to insert something, E to edit your file,
 H for help, X to quit.
 ? R
 OK, entering \nonstopmode...
+LaTeX Font Info:    Trying to load font information for U+msa on input line 262
+.
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 262
+.
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 ! Missing $ inserted.
 <inserted text> 
                 $
@@ -1284,7 +1254,7 @@ LaTeX Warning: Citation 'AdvanceTech2024' on page 12 undefined on input line 26
 
 LaTeX Warning: Citation 'carpio2025' on page 12 undefined on input line 262.
 
-<img/grafico_linea.png, id=110, 697.60625pt x 395.4775pt>
+<img/grafico_linea.png, id=108, 697.60625pt x 395.4775pt>
 File: img/grafico_linea.png Graphic file (type png)
 <use img/grafico_linea.png>
 Package pdftex.def Info: img/grafico_linea.png  used on input line 262.
@@ -1295,7 +1265,7 @@ LaTeX Warning: Citation 'carpio2025' on page 12 undefined on input line 262.
 
 LaTeX Warning: Citation 'carpio2025' on page 12 undefined on input line 262.
 
-<img/grafico_barras.png, id=111, 408.52625pt x 388.45125pt>
+<img/grafico_barras.png, id=109, 408.52625pt x 388.45125pt>
 File: img/grafico_barras.png Graphic file (type png)
 <use img/grafico_barras.png>
 Package pdftex.def Info: img/grafico_barras.png  used on input line 262.
@@ -1330,7 +1300,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Warning: Citation 'scrum2021' on page 15 undefined on input line 262.
 
-<img/MetodologiaScrum.jpeg, id=124, 547.04375pt x 411.5375pt>
+<img/MetodologiaScrum.jpeg, id=122, 547.04375pt x 411.5375pt>
 File: img/MetodologiaScrum.jpeg Graphic file (type jpg)
 <use img/MetodologiaScrum.jpeg>
 Package pdftex.def Info: img/MetodologiaScrum.jpeg  used on input line 262.
@@ -1372,18 +1342,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 
-Package glossaries Info: Preparing to sort glossary `glosario' (total number
-(glossaries)             of referenced entries: 1)
-
-
-Overfull \hbox (21.36292pt too wide) in paragraph at lines 268--269
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 268--269
-
- []
+Package glossaries Warning: Empty glossary for \printnoidxglossary[type={glosar
+io}]. Rerun may be required (or you may have forgotten to use commands like \gl
+s) on input line 268.
 
 [27] [28
 
@@ -1393,7 +1354,36 @@ LaTeX Warning: Empty bibliography on input line 274.
 
 [29] [30] [31
 
-] [32] [1] (main.aux)
+] [32] [1]
+
+Package glossaries Warning: entry `Siglas' indexing changed since previous run 
+(or no previous run) on input line 287.
+
+
+Package glossaries Warning: entry `Abreviaturas' indexing changed since previou
+s run (or no previous run) on input line 287.
+
+
+Package glossaries Warning: entry `En esta sección se debe escribir la nomencl
+atura que se utiliza en el trabajo. La nomenclatura son los diferentes símbolo
+s que se utilizan en un ámbito especifico de las ciencias, por ejemplo en el �
+�rea de química $H_2O$ (formula del agua) o en física $V$ (Voltaje).' indexin
+g changed since previous run (or no previous run) on input line 287.
+
+
+Package glossaries Warning: entry `Glosario' indexing changed since previous ru
+n (or no previous run) on input line 287.
+
+
+Package glossaries Warning: Rerun required to get \printnoidxglossary up to dat
+e on input line 287.
+
+(main.aux
+\g__glossaries_gls_ref_siglas_int=\count494
+\g__glossaries_gls_ref_abreviaturas_int=\count495
+\g__glossaries_gls_ref_nomenclatura_int=\count496
+\g__glossaries_gls_ref_glosario_int=\count497
+)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -1415,25 +1405,23 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28341 strings out of 474485
- 580568 string characters out of 5743735
+ 28294 strings out of 474485
+ 578919 string characters out of 5743735
  1937542 words of memory out of 5000000
- 50270 multiletter control sequences out of 15000+600000
- 597766 words of font info for 98 fonts, out of 8000000 for 9000
+ 50232 multiletter control sequences out of 15000+600000
+ 593126 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,10n,81p,2546b,2895s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\yoshi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi660\tcrm
 1000.pk><C:/Users/yoshi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmmi10.pfb><C:/Users/yoshi/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmmi6.pfb><C:/Users/yoshi/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmmi9.pfb><C:/Users/yoshi/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/yoshi/AppData/Local/Programs/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/yoshi/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/yoshi/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (52 pages, 2504970 bytes).
+ts/cm/cmmi6.pfb><C:/Users/yoshi/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmmi9.pfb><C:/Users/yoshi/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmr9.pfb><C:/Users/yoshi/AppData/Local/Programs/MiKTeX/fo
+nts/type1/urw/times/utmb8a.pfb><C:/Users/yoshi/AppData/Local/Programs/MiKTeX/fo
+nts/type1/urw/times/utmr8a.pfb>
+Output written on main.pdf (52 pages, 2487673 bytes).
 PDF statistics:
- 223 PDF objects out of 1000 (max. 8388607)
+ 213 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1757797516.32325 "c:/Users/yoshi/OneDrive/Documentos/GitHub/latex_tesis_SMR/NoModificar/main.tex" "main.pdf" "main" 1757797517.98983 2
+["pdflatex"] 1757802037.97328 "c:/Users/yoshi/OneDrive/Documentos/GitHub/latex_tesis_SMR/NoModificar/main.tex" "main.pdf" "main" 1757802039.91008 2
   "C:/Users/yoshi/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1756784757 24225086 90c955428b77114572656c85a5581282 ""
   "C:/Users/yoshi/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1000.tfm" 993062122 3148 7e594c8240c71e432203f65ab5f95a51 ""
   "C:/Users/yoshi/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty" 1643997108 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
@@ -112,7 +112,7 @@
   "C:/Users/yoshi/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
   "NoModificar/entornos.tex" 0 -1 0 ""
   "c:/Users/yoshi/OneDrive/Documentos/GitHub/latex_tesis_SMR/NoModificar/main.tex" 1757797323 13210 bcdefc1f4974f672883d91ce3f43656b ""
-  "main.aux" 0 -1 0 "pdflatex"
+  "main.aux" 1757802029 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "main.tex" 1757797323 13210 bcdefc1f4974f672883d91ce3f43656b ""
   (generated)
   "main.aux"
