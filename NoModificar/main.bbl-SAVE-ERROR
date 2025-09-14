@@ -1,0 +1,669 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{duque2023}{report}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=e654bb955085f49844c39cf9b8d4da75}{%
+           family={Aldaz},
+           familyi={A\bibinitperiod},
+           given={Francisco\bibnamedelimb Javier\bibnamedelima Duque},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4cd129c27e4ec4d92b505e4d5af83d6b}{%
+           family={Aguilar},
+           familyi={A\bibinitperiod},
+           given={Jaime\bibnamedelimb Patricio\bibnamedelima Fierro},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=afeb71fd939e9d1f1c72aa199405e143}{%
+           family={Benítez},
+           familyi={B\bibinitperiod},
+           given={Hugo\bibnamedelimb Alfredo\bibnamedelima Pérez},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=29cfb3b09f15b03af0a69202ad160cb7}{%
+           family={Farías},
+           familyi={F\bibinitperiod},
+           given={Galo\bibnamedelimb Wilfrido\bibnamedelima Tobar},
+           giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidad de Guayaquil}%
+      }
+      \strng{namehash}{8fbd3bf470d387d7c2c791af06feec15}
+      \strng{fullhash}{d562ef80c140a17c4bba360230fedae4}
+      \strng{bibnamehash}{d562ef80c140a17c4bba360230fedae4}
+      \strng{authorbibnamehash}{d562ef80c140a17c4bba360230fedae4}
+      \strng{authornamehash}{8fbd3bf470d387d7c2c791af06feec15}
+      \strng{authorfullhash}{d562ef80c140a17c4bba360230fedae4}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Afectación del ruido ambiental a Instituciones Educativas; conjunto de acciones desde la Participación Ciudadana y Centros Educativos}
+      \field{type}{techreport}
+      \field{year}{2023}
+    \endentry
+    \entry{carpio2025}{tesis}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=6894e63bf407520f51c2b109fc5da5e9}{%
+           family={Carpio},
+           familyi={C\bibinitperiod},
+           given={Tito\bibnamedelima Erick},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=810cb51e6ce34008030bf741a677fb6a}{%
+           family={Carranza},
+           familyi={C\bibinitperiod},
+           given={Xiomara\bibnamedelima Alejandra},
+           giveni={X\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56a6828f98d963ecafa669ff15a91468}{%
+           family={Flores},
+           familyi={F\bibinitperiod},
+           given={Bryan\bibnamedelima Salvador},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e0eff83559630080eb3114e00cfb32d}{%
+           family={Rodríguez},
+           familyi={R\bibinitperiod},
+           given={Fernando\bibnamedelima Andrés},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Centroamericana José Simeón Cañas}%
+      }
+      \strng{namehash}{d772f84eb5a14ea8e15db844a4c39b1a}
+      \strng{fullhash}{02fe847779fbddad86452e92feabdef6}
+      \strng{bibnamehash}{02fe847779fbddad86452e92feabdef6}
+      \strng{authorbibnamehash}{02fe847779fbddad86452e92feabdef6}
+      \strng{authornamehash}{d772f84eb5a14ea8e15db844a4c39b1a}
+      \strng{authorfullhash}{02fe847779fbddad86452e92feabdef6}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Tesis de pregrado}
+      \field{title}{Sistema de monitoreo de ruido en edificio Jon de Cortina}
+      \field{type}{Trabajo de graduación de Ingeniería}
+      \field{year}{2025}
+    \endentry
+    \entry{epacartagena2015}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a6216696655430fe459f6ff7b66dd88f}{%
+           family={Cartagena},
+           familyi={C\bibinitperiod},
+           given={EPA},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Observatorio Ambiental de Cartagena}%
+      }
+      \strng{namehash}{a6216696655430fe459f6ff7b66dd88f}
+      \strng{fullhash}{a6216696655430fe459f6ff7b66dd88f}
+      \strng{bibnamehash}{a6216696655430fe459f6ff7b66dd88f}
+      \strng{authorbibnamehash}{a6216696655430fe459f6ff7b66dd88f}
+      \strng{authornamehash}{a6216696655430fe459f6ff7b66dd88f}
+      \strng{authorfullhash}{a6216696655430fe459f6ff7b66dd88f}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Documento en formato PDF}
+      \field{title}{Lineamientos de ruido. Tomo V}
+      \field{type}{techreport}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://observatorio.epacartagena.gov.co/ftp-uploads/dt-tomo-v-lineamientos-de-ruido-20151312.pdf
+      \endverb
+      \verb{url}
+      \verb https://observatorio.epacartagena.gov.co/ftp-uploads/dt-tomo-v-lineamientos-de-ruido-20151312.pdf
+      \endverb
+    \endentry
+    \entry{marcelo2009ruido}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=80471be2fc420dd1c0f68d34d2821358}{%
+           family={Lucic\bibnamedelima Oliva},
+           familyi={L\bibinitperiod\bibinitdelim O\bibinitperiod},
+           given={Yerko\bibnamedelima Damián},
+           giveni={Y\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidad de Chile}%
+      }
+      \strng{namehash}{80471be2fc420dd1c0f68d34d2821358}
+      \strng{fullhash}{80471be2fc420dd1c0f68d34d2821358}
+      \strng{bibnamehash}{80471be2fc420dd1c0f68d34d2821358}
+      \strng{authorbibnamehash}{80471be2fc420dd1c0f68d34d2821358}
+      \strng{authornamehash}{80471be2fc420dd1c0f68d34d2821358}
+      \strng{authorfullhash}{80471be2fc420dd1c0f68d34d2821358}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{El ruido como problema en el aprendizaje: personalización masiva, modelamiento paramétrico y diseño generativo enfocados al desarrollo de paneles acústicos para salas de clase}
+      \field{type}{mathesis}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb https://repositorio.uchile.cl/handle/2250/100197
+      \endverb
+      \verb{url}
+      \verb https://repositorio.uchile.cl/handle/2250/100197
+      \endverb
+    \endentry
+    \entry{scrum2021}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=31e3275181fdfad5070cfa890c45f01e}{%
+           family={{Proyectos Ágiles}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{31e3275181fdfad5070cfa890c45f01e}
+      \strng{fullhash}{31e3275181fdfad5070cfa890c45f01e}
+      \strng{bibnamehash}{31e3275181fdfad5070cfa890c45f01e}
+      \strng{authorbibnamehash}{31e3275181fdfad5070cfa890c45f01e}
+      \strng{authornamehash}{31e3275181fdfad5070cfa890c45f01e}
+      \strng{authorfullhash}{31e3275181fdfad5070cfa890c45f01e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{note}{Consultado el 12 de septiembre de 2025}
+      \field{title}{Qué es SCRUM}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://proyectosagiles.org/que-es-scrum/
+      \endverb
+      \verb{url}
+      \verb https://proyectosagiles.org/que-es-scrum/
+      \endverb
+    \endentry
+    \entry{ANSI2020Acoustical}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5df2b8aa8a96741bac279cfef21f9187}{%
+           family={Schirn},
+           familyi={S\bibinitperiod},
+           given={Alexandra},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5df2b8aa8a96741bac279cfef21f9187}
+      \strng{fullhash}{5df2b8aa8a96741bac279cfef21f9187}
+      \strng{bibnamehash}{5df2b8aa8a96741bac279cfef21f9187}
+      \strng{authorbibnamehash}{5df2b8aa8a96741bac279cfef21f9187}
+      \strng{authornamehash}{5df2b8aa8a96741bac279cfef21f9187}
+      \strng{authorfullhash}{5df2b8aa8a96741bac279cfef21f9187}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ANSI/ASA S12.60/Part 1-2010 (R2020): Acoustical Performance}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://blog.ansi.org/ansi/ansi-asa-s12-60-part-1-2010-r2020-school-acoustics/
+      \endverb
+      \verb{url}
+      \verb https://blog.ansi.org/ansi/ansi-asa-s12-60-part-1-2010-r2020-school-acoustics/
+      \endverb
+    \endentry
+    \entry{Svantek2025MonitoreoDelRuido}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=76f31b7688e0dd4d9ccecb93ee0f5d25}{%
+           family={SVANTEK},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{76f31b7688e0dd4d9ccecb93ee0f5d25}
+      \strng{fullhash}{76f31b7688e0dd4d9ccecb93ee0f5d25}
+      \strng{bibnamehash}{76f31b7688e0dd4d9ccecb93ee0f5d25}
+      \strng{authorbibnamehash}{76f31b7688e0dd4d9ccecb93ee0f5d25}
+      \strng{authornamehash}{76f31b7688e0dd4d9ccecb93ee0f5d25}
+      \strng{authorfullhash}{76f31b7688e0dd4d9ccecb93ee0f5d25}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Monitoreo del ruido}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://svantek.com/es/academia/monitoreo-del-ruido/
+      \endverb
+      \verb{url}
+      \verb https://svantek.com/es/academia/monitoreo-del-ruido/
+      \endverb
+    \endentry
+    \entry{AdvanceTech2024}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a4fd24d520d0c04be2123414f7928efd}{%
+           family={Tech},
+           familyi={T\bibinitperiod},
+           given={Advance},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a4fd24d520d0c04be2123414f7928efd}
+      \strng{fullhash}{a4fd24d520d0c04be2123414f7928efd}
+      \strng{bibnamehash}{a4fd24d520d0c04be2123414f7928efd}
+      \strng{authorbibnamehash}{a4fd24d520d0c04be2123414f7928efd}
+      \strng{authornamehash}{a4fd24d520d0c04be2123414f7928efd}
+      \strng{authorfullhash}{a4fd24d520d0c04be2123414f7928efd}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sistema de monitoreo de ruido - Usos y beneficios}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://adrtechindia-com.translate.goog/noise-monitoring-system-uses-and-benefits/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
+      \endverb
+      \verb{url}
+      \verb https://adrtechindia-com.translate.goog/noise-monitoring-system-uses-and-benefits/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
+      \endverb
+    \endentry
+    \entry{WHO2022}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=531217507bec092b6ec36c0f78f46736}{%
+           family={{World Health Organization}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{fullhash}{531217507bec092b6ec36c0f78f46736}
+      \strng{bibnamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorbibnamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authornamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorfullhash}{531217507bec092b6ec36c0f78f46736}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{2}
+      \field{month}{3}
+      \field{title}{La {{OMS}} publica una nueva norma para hacer frente a la creciente amenaza de la pérdida de audición}
+      \field{urlday}{10}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.who.int/es/news/item/02-03-2022-who-releases-new-standard-to-tackle-rising-threat-of-hearing-loss
+      \endverb
+      \verb{url}
+      \verb https://www.who.int/es/news/item/02-03-2022-who-releases-new-standard-to-tackle-rising-threat-of-hearing-loss
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{duque2023}{report}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=e654bb955085f49844c39cf9b8d4da75}{%
+           family={Aldaz},
+           familyi={A\bibinitperiod},
+           given={Francisco\bibnamedelimb Javier\bibnamedelima Duque},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4cd129c27e4ec4d92b505e4d5af83d6b}{%
+           family={Aguilar},
+           familyi={A\bibinitperiod},
+           given={Jaime\bibnamedelimb Patricio\bibnamedelima Fierro},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=afeb71fd939e9d1f1c72aa199405e143}{%
+           family={Benítez},
+           familyi={B\bibinitperiod},
+           given={Hugo\bibnamedelimb Alfredo\bibnamedelima Pérez},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=29cfb3b09f15b03af0a69202ad160cb7}{%
+           family={Farías},
+           familyi={F\bibinitperiod},
+           given={Galo\bibnamedelimb Wilfrido\bibnamedelima Tobar},
+           giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidad de Guayaquil}%
+      }
+      \strng{namehash}{8fbd3bf470d387d7c2c791af06feec15}
+      \strng{fullhash}{d562ef80c140a17c4bba360230fedae4}
+      \strng{bibnamehash}{d562ef80c140a17c4bba360230fedae4}
+      \strng{authorbibnamehash}{d562ef80c140a17c4bba360230fedae4}
+      \strng{authornamehash}{8fbd3bf470d387d7c2c791af06feec15}
+      \strng{authorfullhash}{d562ef80c140a17c4bba360230fedae4}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Afectación del ruido ambiental a Instituciones Educativas; conjunto de acciones desde la Participación Ciudadana y Centros Educativos}
+      \field{type}{techreport}
+      \field{year}{2023}
+    \endentry
+    \entry{carpio2025}{tesis}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=6894e63bf407520f51c2b109fc5da5e9}{%
+           family={Carpio},
+           familyi={C\bibinitperiod},
+           given={Tito\bibnamedelima Erick},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=810cb51e6ce34008030bf741a677fb6a}{%
+           family={Carranza},
+           familyi={C\bibinitperiod},
+           given={Xiomara\bibnamedelima Alejandra},
+           giveni={X\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56a6828f98d963ecafa669ff15a91468}{%
+           family={Flores},
+           familyi={F\bibinitperiod},
+           given={Bryan\bibnamedelima Salvador},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e0eff83559630080eb3114e00cfb32d}{%
+           family={Rodríguez},
+           familyi={R\bibinitperiod},
+           given={Fernando\bibnamedelima Andrés},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Centroamericana José Simeón Cañas}%
+      }
+      \strng{namehash}{d772f84eb5a14ea8e15db844a4c39b1a}
+      \strng{fullhash}{02fe847779fbddad86452e92feabdef6}
+      \strng{bibnamehash}{02fe847779fbddad86452e92feabdef6}
+      \strng{authorbibnamehash}{02fe847779fbddad86452e92feabdef6}
+      \strng{authornamehash}{d772f84eb5a14ea8e15db844a4c39b1a}
+      \strng{authorfullhash}{02fe847779fbddad86452e92feabdef6}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Tesis de pregrado}
+      \field{title}{Sistema de monitoreo de ruido en edificio Jon de Cortina}
+      \field{type}{Trabajo de graduación de Ingeniería}
+      \field{year}{2025}
+    \endentry
+    \entry{epacartagena2015}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a6216696655430fe459f6ff7b66dd88f}{%
+           family={Cartagena},
+           familyi={C\bibinitperiod},
+           given={EPA},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Observatorio Ambiental de Cartagena}%
+      }
+      \strng{namehash}{a6216696655430fe459f6ff7b66dd88f}
+      \strng{fullhash}{a6216696655430fe459f6ff7b66dd88f}
+      \strng{bibnamehash}{a6216696655430fe459f6ff7b66dd88f}
+      \strng{authorbibnamehash}{a6216696655430fe459f6ff7b66dd88f}
+      \strng{authornamehash}{a6216696655430fe459f6ff7b66dd88f}
+      \strng{authorfullhash}{a6216696655430fe459f6ff7b66dd88f}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Documento en formato PDF}
+      \field{title}{Lineamientos de ruido. Tomo V}
+      \field{type}{techreport}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://observatorio.epacartagena.gov.co/ftp-uploads/dt-tomo-v-lineamientos-de-ruido-20151312.pdf
+      \endverb
+      \verb{url}
+      \verb https://observatorio.epacartagena.gov.co/ftp-uploads/dt-tomo-v-lineamientos-de-ruido-20151312.pdf
+      \endverb
+    \endentry
+    \entry{marcelo2009ruido}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=80471be2fc420dd1c0f68d34d2821358}{%
+           family={Lucic\bibnamedelima Oliva},
+           familyi={L\bibinitperiod\bibinitdelim O\bibinitperiod},
+           given={Yerko\bibnamedelima Damián},
+           giveni={Y\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidad de Chile}%
+      }
+      \strng{namehash}{80471be2fc420dd1c0f68d34d2821358}
+      \strng{fullhash}{80471be2fc420dd1c0f68d34d2821358}
+      \strng{bibnamehash}{80471be2fc420dd1c0f68d34d2821358}
+      \strng{authorbibnamehash}{80471be2fc420dd1c0f68d34d2821358}
+      \strng{authornamehash}{80471be2fc420dd1c0f68d34d2821358}
+      \strng{authorfullhash}{80471be2fc420dd1c0f68d34d2821358}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{El ruido como problema en el aprendizaje: personalización masiva, modelamiento paramétrico y diseño generativo enfocados al desarrollo de paneles acústicos para salas de clase}
+      \field{type}{mathesis}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb https://repositorio.uchile.cl/handle/2250/100197
+      \endverb
+      \verb{url}
+      \verb https://repositorio.uchile.cl/handle/2250/100197
+      \endverb
+    \endentry
+    \entry{scrum2021}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=31e3275181fdfad5070cfa890c45f01e}{%
+           family={{Proyectos Ágiles}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{31e3275181fdfad5070cfa890c45f01e}
+      \strng{fullhash}{31e3275181fdfad5070cfa890c45f01e}
+      \strng{bibnamehash}{31e3275181fdfad5070cfa890c45f01e}
+      \strng{authorbibnamehash}{31e3275181fdfad5070cfa890c45f01e}
+      \strng{authornamehash}{31e3275181fdfad5070cfa890c45f01e}
+      \strng{authorfullhash}{31e3275181fdfad5070cfa890c45f01e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{note}{Consultado el 12 de septiembre de 2025}
+      \field{title}{Qué es SCRUM}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://proyectosagiles.org/que-es-scrum/
+      \endverb
+      \verb{url}
+      \verb https://proyectosagiles.org/que-es-scrum/
+      \endverb
+    \endentry
+    \entry{ANSI2020Acoustical}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5df2b8aa8a96741bac279cfef21f9187}{%
+           family={Schirn},
+           familyi={S\bibinitperiod},
+           given={Alexandra},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5df2b8aa8a96741bac279cfef21f9187}
+      \strng{fullhash}{5df2b8aa8a96741bac279cfef21f9187}
+      \strng{bibnamehash}{5df2b8aa8a96741bac279cfef21f9187}
+      \strng{authorbibnamehash}{5df2b8aa8a96741bac279cfef21f9187}
+      \strng{authornamehash}{5df2b8aa8a96741bac279cfef21f9187}
+      \strng{authorfullhash}{5df2b8aa8a96741bac279cfef21f9187}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ANSI/ASA S12.60/Part 1-2010 (R2020): Acoustical Performance}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://blog.ansi.org/ansi/ansi-asa-s12-60-part-1-2010-r2020-school-acoustics/
+      \endverb
+      \verb{url}
+      \verb https://blog.ansi.org/ansi/ansi-asa-s12-60-part-1-2010-r2020-school-acoustics/
+      \endverb
+    \endentry
+    \entry{Svantek2025MonitoreoDelRuido}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=76f31b7688e0dd4d9ccecb93ee0f5d25}{%
+           family={SVANTEK},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{76f31b7688e0dd4d9ccecb93ee0f5d25}
+      \strng{fullhash}{76f31b7688e0dd4d9ccecb93ee0f5d25}
+      \strng{bibnamehash}{76f31b7688e0dd4d9ccecb93ee0f5d25}
+      \strng{authorbibnamehash}{76f31b7688e0dd4d9ccecb93ee0f5d25}
+      \strng{authornamehash}{76f31b7688e0dd4d9ccecb93ee0f5d25}
+      \strng{authorfullhash}{76f31b7688e0dd4d9ccecb93ee0f5d25}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Monitoreo del ruido}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://svantek.com/es/academia/monitoreo-del-ruido/
+      \endverb
+      \verb{url}
+      \verb https://svantek.com/es/academia/monitoreo-del-ruido/
+      \endverb
+    \endentry
+    \entry{AdvanceTech2024}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a4fd24d520d0c04be2123414f7928efd}{%
+           family={Tech},
+           familyi={T\bibinitperiod},
+           given={Advance},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a4fd24d520d0c04be2123414f7928efd}
+      \strng{fullhash}{a4fd24d520d0c04be2123414f7928efd}
+      \strng{bibnamehash}{a4fd24d520d0c04be2123414f7928efd}
+      \strng{authorbibnamehash}{a4fd24d520d0c04be2123414f7928efd}
+      \strng{authornamehash}{a4fd24d520d0c04be2123414f7928efd}
+      \strng{authorfullhash}{a4fd24d520d0c04be2123414f7928efd}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sistema de monitoreo de ruido - Usos y beneficios}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://adrtechindia-com.translate.goog/noise-monitoring-system-uses-and-benefits/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
+      \endverb
+      \verb{url}
+      \verb https://adrtechindia-com.translate.goog/noise-monitoring-system-uses-and-benefits/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
+      \endverb
+    \endentry
+    \entry{WHO2022}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=531217507bec092b6ec36c0f78f46736}{%
+           family={{World Health Organization}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{fullhash}{531217507bec092b6ec36c0f78f46736}
+      \strng{bibnamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorbibnamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authornamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorfullhash}{531217507bec092b6ec36c0f78f46736}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{2}
+      \field{month}{3}
+      \field{title}{La {{OMS}} publica una nueva norma para hacer frente a la creciente amenaza de la pérdida de audición}
+      \field{urlday}{10}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.who.int/es/news/item/02-03-2022-who-releases-new-standard-to-tackle-rising-threat-of-hearing-loss
+      \endverb
+      \verb{url}
+      \verb https://www.who.int/es/news/item/02-03-2022-who-releases-new-standard-to-tackle-rising-threat-of-hearing-loss
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

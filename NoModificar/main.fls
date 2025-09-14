@@ -9,9 +9,6 @@ INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
 INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
 INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1000.tfm
 INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
@@ -224,3 +221,200 @@ INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathf
 INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
 INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
 INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT .\entornos.tex
+INPUT .\entornos.tex
+INPUT entornos.tex
+INPUT .\datos.tex
+INPUT .\datos.tex
+INPUT datos.tex
+INPUT .\comandos.tex
+INPUT .\comandos.tex
+INPUT .\comandos.tex
+INPUT .\comandos.tex
+INPUT comandos.tex
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1ptm.fd
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1ptm.fd
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1ptm.fd
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT .\main.aux
+INPUT .\main.aux
+INPUT main.aux
+OUTPUT main.aux
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\spanish-apa.lbx
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\spanish-apa.lbx
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\spanish-apa.lbx
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+OUTPUT main.bcf
+INPUT main.bbl
+INPUT .\main.bbl
+INPUT .\main.bbl
+INPUT .\main.bbl
+INPUT main.bbl
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT ..\img\Logo_UCA_2015.jpg
+INPUT ..\img\Logo_UCA_2015.jpg
+INPUT ..\img\Logo_UCA_2015.jpg
+INPUT ..\img\Logo_UCA_2015.jpg
+OUTPUT main.pdf
+INPUT ..\img\Logo_UCA_2015.jpg
+INPUT ..\img\Logo_UCA_2015.jpg
+INPUT ..\img\Logo_UCA_2015.jpg
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\yoshi\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+OUTPUT main.toc
+OUTPUT main.lof
+OUTPUT main.lot
+INPUT ..\img\SMI_cartagena.png
+INPUT ..\img\SMI_cartagena.png
+INPUT ..\img\SMI_cartagena.png
+INPUT ..\img\SMI_cartagena.png
+INPUT ..\img\SMI_cartagena.png
+INPUT ..\img\SMI_cartagena.png
+INPUT ..\img\SMI_cartagena.png
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1ptm.fd
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1ptm.fd
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1ptm.fd
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8c.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8c.vf
+INPUT ..\img\Oido.jpg
+INPUT ..\img\Oido.jpg
+INPUT ..\img\Oido.jpg
+INPUT ..\img\Oido.jpg
+INPUT ..\img\Oido.jpg
+INPUT ..\img\Oido.jpg
+INPUT ..\img\Oido.jpg
+INPUT ..\img\sensor_MAX.png
+INPUT ..\img\sensor_MAX.png
+INPUT ..\img\sensor_MAX.png
+INPUT ..\img\sensor_MAX.png
+INPUT ..\img\sensor_MAX.png
+INPUT ..\img\sensor_MAX.png
+INPUT ..\img\sensor_MAX.png
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi9.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy9.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex9.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT ..\img\grafico_linea.png
+INPUT ..\img\grafico_linea.png
+INPUT ..\img\grafico_linea.png
+INPUT ..\img\grafico_linea.png
+INPUT ..\img\grafico_linea.png
+INPUT ..\img\grafico_linea.png
+INPUT ..\img\grafico_linea.png
+INPUT ..\img\grafico_barras.png
+INPUT ..\img\grafico_barras.png
+INPUT ..\img\grafico_barras.png
+INPUT ..\img\grafico_barras.png
+INPUT ..\img\grafico_barras.png
+INPUT ..\img\grafico_barras.png
+INPUT ..\img\grafico_barras.png
+INPUT ..\img\Metodologia Scrum.jpeg
+INPUT ..\img\Metodologia Scrum.jpeg
+INPUT ..\img\Metodologia Scrum.jpeg
+INPUT ..\img\Metodologia Scrum.jpeg
+INPUT ..\img\Metodologia Scrum.jpeg
+INPUT ..\img\Metodologia Scrum.jpeg
+INPUT ..\img\Metodologia Scrum.jpeg
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT ..\img\Cronograma .jpeg
+INPUT ..\img\Cronograma .jpeg
+INPUT ..\img\Cronograma .jpeg
+INPUT ..\img\Cronograma .jpeg
+INPUT ..\img\Cronograma .jpeg
+INPUT ..\img\Cronograma .jpeg
+INPUT ..\img\Cronograma .jpeg
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT ..\img\Cronograma 2.jpeg
+INPUT ..\img\Cronograma 2.jpeg
+INPUT ..\img\Cronograma 2.jpeg
+INPUT ..\img\Cronograma 2.jpeg
+INPUT ..\img\Cronograma 2.jpeg
+INPUT ..\img\Cronograma 2.jpeg
+INPUT ..\img\Cronograma 2.jpeg
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr7.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr5.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi7.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi5.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy7.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy5.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri7t.vf
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT main.aux
+OUTPUT main.run.xml
+INPUT C:\Users\yoshi\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi660\tcrm1000.pk
+INPUT C:\Users\yoshi\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi660\tcrm1000.pk
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmb8a.pfb
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmb8a.pfb
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmr8a.pfb
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmr8a.pfb
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmri8a.pfb
+INPUT C:\Users\yoshi\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmri8a.pfb

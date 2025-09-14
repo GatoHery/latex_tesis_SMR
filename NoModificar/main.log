@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.1)  13 SEP 2025 16:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.1)  14 SEP 2025 11:55
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/yoshi/OneDrive/Documentos/GitHub/latex_tesis_SMR/NoModificar/main.tex
-(c:/Users/yoshi/OneDrive/Documentos/GitHub/latex_tesis_SMR/NoModificar/main.tex
+**./main.tex
+(main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
@@ -24,41 +23,53 @@ File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen141
 \Gin@req@width=\dimen142
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.sty
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.sty
 Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count196
@@ -73,7 +84,9 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen149
 \Gm@layoutvoffset=\dimen150
 \Gm@dimlist=\toks20
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
 \cftparskip=\skip50
@@ -112,7 +125,8 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftbeforetabskip=\skip81
 \cfttabindent=\skip82
 \cfttabnumwidth=\skip83
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box51
 \beforetitleunit=\skip84
@@ -123,7 +137,8 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \titlewidth=\dimen153
 \titlewidthlast=\dimen154
 \titlewidthfirst=\dimen155
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
 \LTleft=\skip86
 \LTright=\skip87
@@ -141,18 +156,27 @@ Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
 \c@LT@tables=\count270
 \c@LT@chunks=\count271
 \LT@p@ftn=\toks22
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/base\fix-cm.sty
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/base\fix-cm.sty
 Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1enc.def
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
-)) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+))
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -161,16 +185,20 @@ Package pdftexcmds Info: \pdfdraftmode found.
 ) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count272
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count273
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-)) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+))
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -233,12 +261,14 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \c@mincompwidth=\count319
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
 File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'apa.dbx' found.
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\apa.dbx
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\apa.dbx
 File: apa.dbx 2025/08/27 v9.20 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
@@ -337,7 +367,8 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorteditorwidth=\skip111
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
 File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
@@ -364,22 +395,31 @@ Package biblatex Info: ... file 'apa.bbx' found.
 File: apa.bbx 2025/08/27 v9.20 APA biblatex references style
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
+bx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count407
 \c@bbx:relatedtotal=\count408
 )
-Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defined, overwriting.
-Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already defined, overwriting.
-Package biblatex Info: Delimiter 'nonameyeardelim' in context 'bib' already defined, overwriting.
-Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already defined, overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defin
+ed, overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already d
+efined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'bib' already def
+ined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already
+ defined, overwriting.
 )
 Package biblatex Info: Trying to load citation style 'apa'...
 Package biblatex Info: ... file 'apa.cbx' found.
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\apa.cbx
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\apa.cbx
 File: apa.cbx 2025/08/27 v9.20 APA biblatex citation style
-Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
-Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined, overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
+ overwriting.
+Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined
+, overwriting.
 Package biblatex Info: Redefining '\fullcite'.
 Package biblatex Info: Redefining '\citeauthor'.
 Package biblatex Info: Redefining '\citeyear'.
@@ -398,14 +438,18 @@ Package biblatex Info: Redefining '\textcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2024-01-04 L3 programming layer (loader) 
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count409
 \l__pdf_internal_box=\box57
@@ -414,19 +458,26 @@ Package biblatex Info: ... and expl3
 (biblatex)             2024-01-04 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3
+.sty
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
 Package: xparse 2023-10-10 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
-)) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/emptypage\emptypage.sty
-Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty pages
+))
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/emptypage\emptypage.sty
+Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
+pages
 ) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
 Package xcolor Info: Model `RGB' extended on input line 1366.
@@ -456,14 +507,17 @@ Package: amsmath 2023/05/13 v2.17o AMS math features
 For additional information on amsmath, use the `?' option.
 (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks24
 \ex@=\dimen158
-)) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+))
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen159
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count412
@@ -513,9 +567,11 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \mathdisplay@stack=\toks28
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -524,7 +580,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen167
 \captionmargin=\dimen168
@@ -539,7 +596,8 @@ Package caption Info: Standard document class detected.
 \c@caption@flags=\count424
 \c@continuedfloat=\count425
 Package caption Info: longtable package is loaded.
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: rotating package is loaded.
@@ -550,7 +608,8 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box61
 \@float@everytoks=\toks30
 \@floatcapt=\box62
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2025/02/06 v3.11 Customized lists
 \labelindent=\skip119
 \enit@outerparindent=\dimen175
@@ -558,32 +617,48 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 \enit@inbox=\box63
 \enit@count@id=\count427
 \enitdp@description=\count428
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
 \xs_counta=\count429
 \xs_countb=\count430
 )
 Package: xstring 2023/08/22 v1.86 String manipulations (CT)
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossaries.sty
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossar
+ies.sty
 Package: glossaries 2025/08/11 v4.8 (NLCT)
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
 \XKV@toks=\toks32
 \XKV@tempa@toks=\toks33
 )
 \XKV@depth=\count431
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
+))
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
 Package: mfirstuc 2025/04/03 v2.09 (NLCT)
 \@glsmfirst=\toks34
 \@glsmrest=\toks35
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
 Package: xfor 2009/02/05 v1.05 (NLCT)
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.sty
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.
+sty
 Package: datatool-base 2025/04/25 v3.4.1 (NLCT)
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
 Package: tracklang 2025/03/11 v1.6.6 (NLCT) Track Languages
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.tex)) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-l3fp.def
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.t
+ex))
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-l3fp.
+def
 File: datatool-l3fp.def 2025/04/25 v3.4.1 (NLCT)
 )
 \@dtl@toks=\toks36
@@ -591,7 +666,9 @@ File: datatool-l3fp.def 2025/04/25 v3.4.1 (NLCT)
 \dtl@tmplength=\skip120
 \l__datatool_measure_box=\box64
 \dtl@sortresult=\count433
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-utf8.ldf
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-utf8.
+ldf
 File: datatool-utf8.ldf 2025/04/25 v3.4.1 (NLCT)
 )
 \@dtl@datatype=\count434
@@ -629,18 +706,28 @@ File: datatool-utf8.ldf 2025/04/25 v3.4.1 (NLCT)
 \glslabeltok=\toks39
 \glsshorttok=\toks40
 \glslongtok=\toks41
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-hypernav.sty
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-hypernav.sty
 Package: glossary-hypernav 2025/08/11 v4.8 (NLCT)
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-list.sty
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-list.sty
 Package: glossary-list 2025/08/11 v4.8 (NLCT)
 \glslistdottedwidth=\skip122
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-long.sty
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-long.sty
 Package: glossary-long 2025/08/11 v4.8 (NLCT)
 \glsdescwidth=\skip123
 \glspagelistwidth=\skip124
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-super.sty
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-super.sty
 Package: glossary-super 2025/08/11 v4.8 (NLCT)
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabular.sty
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabul
+ar.sty
 Package: supertabular 2024/07/20 v4.2c the supertabular environment
 \c@tracingst=\count458
 \ST@wd=\dimen180
@@ -657,7 +744,9 @@ Package: supertabular 2024/07/20 v4.2c the supertabular environment
 \ST@toadd=\dimen188
 \ST@dimen=\dimen189
 \ST@pbox=\box65
-)) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-tree.sty
+))
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-tree.sty
 Package: glossary-tree 2025/08/11 v4.8 (NLCT)
 \l__glossaries_tree_max_known_level_int=\count459
 \l__glossaries_tree_offset_dim=\dimen190
@@ -671,22 +760,45 @@ Package: glossary-tree 2025/08/11 v4.8 (NLCT)
 \l__glossaries_tree_namesymbolwidth_padding_dim=\dimen198
 \l__glossaries_tree_level_int=\count460
 \glstreeindent=\skip128
-)) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+))
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
 \pgfutil@everybye=\toks42
 \pgfutil@tempdima=\dimen199
 \pgfutil@tempdimb=\dimen256
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
 \pgfutil@abb=\box66
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
-)) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+))
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
 \pgfkeys@pathtoks=\toks43
 \pgfkeys@temptoks=\toks44
- (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+libraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks45
-))) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex
+)))
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex
 \pgf@x=\dimen257
 \pgf@xa=\dimen258
 \pgf@xb=\dimen259
@@ -699,43 +811,494 @@ Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 \c@pgf@countb=\count462
 \c@pgf@countc=\count463
 \c@pgf@countd=\count464
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
 \pgfmath@dimen=\dimen265
 \pgfmath@count=\count465
 \pgfmath@box=\box67
 \pgfmath@toks=\toks46
 \pgfmath@stack@operand=\toks47
 \pgfmath@stack@operation=\toks48
-) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
 \c@pgfmathroundto@lastzeros=\count466
-))) (C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+)))
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 \pgffor@iter=\dimen266
 \pgffor@skip=\dimen267
 \pgffor@stack=\toks49
 \pgffor@toks=\toks50
+)) (entornos.tex
+\c@numerocapitulo=\count467
+\c@numeroimagenesanexos=\count468
+\c@agradecimientoinicio=\count469
+\c@agradecimientofinal=\count470
+\c@agradecimientodiferencia=\count471
+\c@dedicatoriasimpleinicio=\count472
+\c@dedicatoriasimplefinal=\count473
+\c@dedicatoriasimplediferencia=\count474
+\c@resumeninicio=\count475
+\c@resumenfinal=\count476
+\c@resumendiferencia=\count477
+ (datos.tex (comandos.tex
+\c@anexosletra=\count478
+\c@anexosseccion=\count479
+\c@anexossubseccion=\count480
+\c@contadorautor=\count481
+\c@contadorhombres=\count482
+\c@contadormujeres=\count483
+\c@resultadosexosautores=\count484
+\c@figuras=\count485
+)))
+\@quotelevel=\count486
+\@quotereset=\count487
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
+70.
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(main.aux
+\g__glossaries_gls_ref_siglas_int=\count488
+\g__glossaries_gls_ref_abreviaturas_int=\count489
+\g__glossaries_gls_ref_nomenclatura_int=\count490
+\g__glossaries_gls_ref_glosario_int=\count491
+
+
+LaTeX Warning: Label `fig:your_label' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count492
+\scratchdimen=\dimen268
+\scratchbox=\box68
+\nofMPsegments=\count493
+\nofMParguments=\count494
+\everyMPshowfont=\toks51
+\MPscratchCnt=\count495
+\MPscratchDim=\dimen269
+\MPnumerator=\count496
+\makeMPintoPDFobject=\count497
+\everyMPtoPDFconversion=\toks52
+)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 28.45274pt
+* modes: twoside 
+* h-part:(L,W,R)=(71.13188pt, 443.57849pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 652.70622pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=443.57849pt
+* \textheight=652.70622pt
+* \oddsidemargin=27.31464pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=121.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-! LaTeX Error: File `NoModificar/entornos.tex' not found.
+Package biblatex Info: Trying to load language 'spanish' -> 'spanish-apa'...
+Package biblatex Info: ... file 'spanish-apa.lbx' found.
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: tex)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\spanish-ap
+a.lbx
+File: spanish-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
+Package biblatex Info: Trying to load language 'spanish'...
+Package biblatex Info: ... file 'spanish.lbx' found.
 
-Enter file name: 
-c:/Users/yoshi/OneDrive/Documentos/GitHub/latex_tesis_SMR/NoModificar/main.tex:82: Emergency stop.
-<read *> 
-         
-l.82 \input{NoModificar/entornos.tex}
-                                     %Entornos de las diferentes partes del ...
-*** (cannot \read from terminal in nonstop modes)
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\spanish.lb
+x
+File: spanish.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'spanish'...
+Package biblatex Info: ... file 'spanish.lbx' found.
 
- 
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\spanish.lb
+x
+File: spanish.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+ (main.bbl)
+Package biblatex Info: Reference section=0 on input line 170.
+Package biblatex Info: Reference segment=0 on input line 170.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: supertabular package is loaded.
+Package caption Info: End \AtBeginDocument code.
+<../img/Logo_UCA_2015.jpg, id=1, 3462.9375pt x 4733.685pt>
+File: ../img/Logo_UCA_2015.jpg Graphic file (type jpg)
+<use ../img/Logo_UCA_2015.jpg>
+Package pdftex.def Info: ../img/Logo_UCA_2015.jpg  used on input line 181.
+(pdftex.def)             Requested size: 51.99466pt x 71.13188pt.
+ [1
+
+
+{C:/Users/yoshi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/yosh
+i/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <../img/Logo_UCA_2
+015.jpg>] [2
+
+] [3] [4
+
+] [5] [1
+
+
+] [2
+
+] (main.toc
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 1.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 1.
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--214
+
+ []
+
+
+Underfull \vbox (badness 2941) has occurred while \output is active []
+
+ [3]
+[4] (main.lof)
+\tf@lof=\write5
+\openout5 = `main.lof'.
+
+ [5
+
+] [6
+
+] (main.lot)
+\tf@lot=\write6
+\openout6 = `main.lot'.
+
+ [7] [8
+
+]
+
+Package glossaries Info: Preparing to sort glossary `siglas' (total number of
+(glossaries)             referenced entries: 1)
+
+
+Overfull \hbox (10.37393pt too wide) in paragraph at lines 236--236
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+
+ []
+
+[9] [10
+
+]
+
+Package glossaries Info: Preparing to sort glossary `abreviaturas' (total
+(glossaries)             number of referenced entries: 1)
+
+
+Overfull \hbox (40.0187pt too wide) in paragraph at lines 242--242
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+
+ []
+
+[11] [12
+
+]
+
+Package glossaries Info: Preparing to sort glossary `nomenclatura' (total
+(glossaries)             number of referenced entries: 1)
+
+
+Overfull \hbox (50.07259pt too wide) in paragraph at lines 248--248
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
+
+ []
+
+[13] [14]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+<../img/SMI_cartagena.png, id=73, 743.77875pt x 375.4025pt>
+File: ../img/SMI_cartagena.png Graphic file (type png)
+<use ../img/SMI_cartagena.png>
+Package pdftex.def Info: ../img/SMI_cartagena.png  used on input line 261.
+(pdftex.def)             Requested size: 266.1498pt x 134.33139pt.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
+61.
+
+(C:\Users\yoshi\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <../img/SMI_cartagena.png>] [4]
+<../img/Oido.jpg, id=82, 722.7pt x 534.49687pt>
+File: ../img/Oido.jpg Graphic file (type jpg)
+<use ../img/Oido.jpg>
+Package pdftex.def Info: ../img/Oido.jpg  used on input line 261.
+(pdftex.def)             Requested size: 310.50359pt x 229.64159pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6 <../img/Oido.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+<../img/sensor_MAX.png, id=99, 768.8725pt x 804.00375pt>
+File: ../img/sensor_MAX.png Graphic file (type png)
+<use ../img/sensor_MAX.png>
+Package pdftex.def Info: ../img/sensor_MAX.png  used on input line 261.
+(pdftex.def)             Requested size: 310.50359pt x 324.69963pt.
+
+! Undefined control sequence.
+\Url Error ->\url used in a moving argument. 
+                                             
+l.261     \begin{capitulosentorno}
+                                  
+? r
+OK, entering \nonstopmode...
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--261
+[]\OT1/ptm/m/n/9 Figura 2.2 |Sen-sor MAX9814 Am-pli-fi-cador de micr[]ofono. Fu
+ente: $https : / / uelectronics . com / producto /
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11 <../img/sensor_MAX.png>]
+<../img/grafico_linea.png, id=107, 697.60625pt x 395.4775pt>
+File: ../img/grafico_linea.png Graphic file (type png)
+<use ../img/grafico_linea.png>
+Package pdftex.def Info: ../img/grafico_linea.png  used on input line 261.
+(pdftex.def)             Requested size: 310.50359pt x 176.02615pt.
+<../img/grafico_barras.png, id=108, 408.52625pt x 388.45125pt>
+File: ../img/grafico_barras.png Graphic file (type png)
+<use ../img/grafico_barras.png>
+Package pdftex.def Info: ../img/grafico_barras.png  used on input line 261.
+(pdftex.def)             Requested size: 310.50359pt x 295.26157pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12 <../img/grafico_linea.png>] [13 <../img/grafico_barras.png>] [14
+
+]
+<../img/Metodologia Scrum.jpeg, id=121, 547.04375pt x 411.5375pt>
+File: ../img/Metodologia Scrum.jpeg Graphic file (type jpg)
+<use ../img/Metodologia Scrum.jpeg>
+Package pdftex.def Info: ../img/Metodologia Scrum.jpeg  used on input line 261.
+
+(pdftex.def)             Requested size: 310.50359pt x 233.59293pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16 <../img/Metodologia Scrum.jpeg>]
+LaTeX Info: Symbol \textasciiacute not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 261.
+<../img/Cronograma .jpeg, id=128, 1284.8pt x 297.11pt>
+File: ../img/Cronograma .jpeg Graphic file (type jpg)
+<use ../img/Cronograma .jpeg>
+Package pdftex.def Info: ../img/Cronograma .jpeg  used on input line 261.
+(pdftex.def)             Requested size: 310.50359pt x 71.802pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
+<../img/Cronograma 2.jpeg, id=133, 1000.73875pt x 1284.8pt>
+File: ../img/Cronograma 2.jpeg Graphic file (type jpg)
+<use ../img/Cronograma 2.jpeg>
+Package pdftex.def Info: ../img/Cronograma 2.jpeg  used on input line 261.
+(pdftex.def)             Requested size: 310.50359pt x 398.63676pt.
+
+[18 <../img/Cronograma .jpeg> <../img/Cronograma 2.jpeg>] [19
+
+] [20
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
+[23] [24
+
+] [25] [26
+
+]
+
+Package glossaries Info: Preparing to sort glossary `glosario' (total number
+(glossaries)             of referenced entries: 1)
+
+
+Overfull \hbox (21.36292pt too wide) in paragraph at lines 267--268
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--268
+
+ []
+
+[27] [28
+
+]
+
+Package biblatex Warning: No driver for 'tesis'.
+(biblatex)                Using fallback driver on input line 273.
+
+[29] [30] [31
+
+] [32] [1] (main.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
 Here is how much of TeX's memory you used:
- 25898 strings out of 474485
- 525932 string characters out of 5743735
- 1925542 words of memory out of 5000000
- 47921 multiletter control sequences out of 15000+600000
- 558832 words of font info for 37 fonts, out of 8000000 for 9000
+ 28256 strings out of 474485
+ 582368 string characters out of 5743735
+ 1939542 words of memory out of 5000000
+ 50189 multiletter control sequences out of 15000+600000
+ 584645 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,0n,81p,2602b,196s stack positions out of 10000i,1000n,20000p,200000b,200000s
-c:/Users/yoshi/OneDrive/Documentos/GitHub/latex_tesis_SMR/NoModificar/main.tex:82:  ==> Fatal error occurred, no output PDF file produced!
+ 66i,11n,81p,2534b,2895s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\yoshi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi660\tcrm
+1000.pk><C:/Users/yoshi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmmi10.pfb><C:/Users/yoshi/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb><C:/Users/yoshi/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/urw/times/utmb8a.pfb><C:/Users/yoshi/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/urw/times/utmr8a.pfb><C:/Users/yoshi/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/urw/times/utmri8a.pfb>
+Output written on main.pdf (52 pages, 2707988 bytes).
+PDF statistics:
+ 215 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+

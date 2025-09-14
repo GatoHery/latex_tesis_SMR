@@ -1,5 +1,5 @@
 
-\input{NoModificar/comandos}
+\input{comandos}
 
 % ================================================================
 %            Sección editable para primera portada
@@ -76,32 +76,15 @@
 % ================== NO MODIFICAR LOS COMANDOS ===================
 % ================================================================
 
-\newcommand{\resumen}
-{
-  Este trabajo de graduacion aborda la problematica de los elevados niveles de ruido en el edificio Jon
-  Cortina de la Universidad Centroamericana Jose Simeon Canas de El Salvador, los cuales afectan
-  negativamente en la concentracion, el aprendizaje y el bienestar de estudiantes y docentes. La oganizacion
-  Mundial de la Salud (OMS) indica que los niveles superiores a 70 decibelios en areas de uso comun,
-  afectan la salud auditiva y la concentracion, lo que reafirma la necesidad de una solucion a esta problematica.
-  El objetivo central del proyecto es continuar con el sistema de monitoreo de ruido en tiempo real 
-  basado en tecnologıas IoT (Internet de las Cosas), las cuales permiten la interconexion de dispositivos 
-  fısicos a traves de internet para recopilar, enviar y procesar datos automaticamente, en esta segunda fase
-  del proyecto se busca integrar el prototipo existente con los servicios institucionales de la universidad,
-  agregar nuevas tecnologias como websockets y la creacion de una cubierta para el dispositivo.
+\newcommand{\resumen}{Este trabajo de graduación aborda la problemática de los elevados niveles de ruido en el edificio Jon Cortina de la Universidad Centroamericana José Simeón Cañas de El Salvador, los cuales afectan negativamente la concentración, el aprendizaje y el bienestar de estudiantes y docentes. La Organización Mundial de la Salud (OMS) indica que los niveles superiores a 70 decibelios en áreas de uso común afectan la salud auditiva y la concentración, lo que reafirma la necesidad de una solución a esta problemática.
 
-  Este proyecto permite la medicion, almacenaje y analisis de los niveles sonoros que se producen en las diferentes 
-  areas del edificio con el fin de mitigar la contaminacion acustica. Para cumplir el objetivo, se realizo previamente 
-  una investigacion de las normativas de ruido, el diseno y desarrollo de un prototipo utilizando el microcontrolador ESP8266 
-  y el sensor MAX9814, la implementacion de un sistema de alertas tanto visuales como por correo electronico, y la creacion
-  de un sistema web para la consulta de los datos recolectados.
+El objetivo central del proyecto es continuar con el sistema de monitoreo de ruido en tiempo real, basado en tecnologías IoT (Internet de las Cosas), las cuales permiten la interconexión de dispositivos físicos a través de internet para recopilar, enviar y procesar datos automáticamente. En esta segunda fase del proyecto se busca integrar el prototipo existente con los servicios institucionales de la universidad, agregar nuevas tecnologías como websockets y la creación de una cubierta para el dispositivo.
 
-  El presente trabajo de graduacion se estructura en ocho capítulos. El primero establece la problematica, los antecedentes 
-  que sustentan la investigacion, los objetivos generales y específicos, así como los alcances y limitaciones del proyecto. 
-  En el segundo capítulo se exploran conceptos fundamentales como la audicion, el sonido y la contaminacion sonora.
+Este proyecto permite la medición, almacenamiento y análisis de los niveles sonoros que se producen en las diferentes áreas del edificio, con el fin de mitigar la contaminación acústica. Para cumplir este objetivo, se realizó previamente una investigación de las normativas de ruido, el diseño y desarrollo de un prototipo utilizando el microcontrolador ESP8266 y el sensor MAX9814, la implementación de un sistema de alertas tanto visuales como por correo electrónico, y la creación de un sistema web para la consulta de los datos recolectados.
 
-  El tercer capítulo se presenta la metodología Scrum, que fue la que se adoptó para el desarrollo del
-  proyecto, la cual organiza el desarrollo en ciclos iterativos con roles definidos.
-}
+El presente trabajo de graduación se estructura en ocho capítulos. El primero establece la problemática, los antecedentes que sustentan la investigación, los objetivos generales y específicos, así como los alcances y limitaciones del proyecto. En el segundo capítulo se exploran conceptos fundamentales como la audición, el sonido y la contaminación sonora.
+
+En el tercer capítulo se presenta la metodología Scrum, que fue la adoptada para el desarrollo del proyecto, la cual organiza el trabajo en ciclos iterativos con roles definidos.}
 
 %=================================================================
 %                  Sección editable para siglas
@@ -127,7 +110,7 @@
 % ================== NO MODIFICAR LOS COMANDOS ===================
 % ================================================================
 
-\itemnomenclatura{Nomenclaturas}{En esta sección se debe escribir la nomenclatura que se utiliza en el trabajo. La nomenclatura son los diferentes símbolos que se utilizan en un ámbito especifico de las ciencias, por ejemplo en el área de química $H_2O$ (formula del agua) o en física $V$ (Voltaje).}
+\itemnomenclatura{Nomenclaturas}{En esta sección se debe escribir la nomenclatura que se utiliza en el trabajo. La nomenclatura son los diferentes símbolos que se utilizan en un ámbito especifico de las ciencias, por ejemplo en el área de química $H2O$(formula del agua) o en física $V$(Voltaje).}
 \itemnomenclatura{}{}
 \itemnomenclatura{}{}
 
@@ -138,7 +121,7 @@
 % ===============================================================
 
 \newenvironment{planteamientodelproblema}{
-En la Universidad Centroamericana José Simeón Cañas (UCA) se requiere de un ambiente adecuado que favorezca el aprendizaje y la concentración de los estudiantes. Sin embargo, en el edificio Jon de Cortina, específicamente en el área de laboratorios, se ha identificado una problemática persistente relacionada con los altos niveles de ruido. Este problema se origina principalmente en el comportamiento de los estudiantes durante los cambios de clase y las horas de descanso, sumado a la arquitectura del edificio, caracterizada por pasillos largos y espacios abiertos que amplifican el sonido. Como resultado, las áreas comunes del edificio se ven constantemente afectadas, generando un ambiente poco favorable para el estudio.
+En la Universidad Centroamericana ``José Simeón Cañas`` (UCA) se requiere de un ambiente adecuado que favorezca el aprendizaje y la concentración de los estudiantes. Sin embargo, en el edificio Jon de Cortina, específicamente en el área de laboratorios, se ha identificado una problemática persistente relacionada con los altos niveles de ruido. Este problema se origina principalmente en el comportamiento de los estudiantes durante los cambios de clase y las horas de descanso, sumado a la arquitectura del edificio, caracterizada por pasillos largos y espacios abiertos que amplifican el sonido. Como resultado, las áreas comunes del edificio se ven constantemente afectadas, generando un ambiente poco favorable para el estudio.
 
 El exceso de ruido interfiere en la experiencia educativa, ocasionando molestias auditivas y dificultades en la concentración, lo cual repercute negativamente en los procesos de aprendizaje. De acuerdo con la teoría constructivista de Piaget, el aprendizaje se desarrolla a partir de la interacción activa del estudiante con su entorno. En este sentido, la distracción o la mala captación de estímulos afecta tanto procesos mentales básicos (sensación, atención, concentración y memoria) como procesos complejos (pensamiento, lenguaje e inteligencia) \parencite{marcelo2009ruido}.
 
@@ -163,8 +146,8 @@ El diagrama de la infraestructura es el siguiente:
 
 \begin{figure}[H] 
     \centering
-    \includegraphics[width=0.6\textwidth]{img/SMI_cartagena.png}
-    \caption{Infraestructura típica de un sistema de monitoreo inteligente de ruido. Fuente: [\cite{epacartagena2015}]}
+    \includegraphics[width=0.6\textwidth]{../img/SMI_cartagena.png}
+    \caption{Infraestructura típica de un sistema de monitoreo inteligente de ruido. Fuente: \cite{epacartagena2015}}
     \label{fig:diagrama-sistema-cartagena}
 \end{figure}
 
@@ -197,7 +180,7 @@ El sistema busca ofrecer una solución efectiva para el monitoreo de ruido en lo
 \end{itemize}
 
 }{}
-\newenvironment{objetivogeneral}{Desarrollar e implementar un sistema de monitoreo de ruido basado en tecnología IoT en la Universidad Centroamericana ‘José Simeón Cañas’ (UCA), integrando el prototipo existente con los servicios institucionales, para garantizar la recolección, análisis y visualización de datos en tiempo real, permitiendo generar alertas oportunas al personal administrativo sobre niveles elevados de ruido en los espacios designado.
+\newenvironment{objetivogeneral}{Desarrollar e implementar un sistema de monitoreo de ruido basado en tecnología IoT en la Universidad Centroamericana ``José Simeón Cañas`` (UCA), integrando el prototipo existente con los servicios institucionales, para garantizar la recolección, análisis y visualización de datos en tiempo real, permitiendo generar alertas oportunas al personal administrativo sobre niveles elevados de ruido en los espacios designado.
 }{}
 \newenvironment{objetivosespecificos}{
 \begin{itemize}
@@ -217,11 +200,10 @@ El sistema busca ofrecer una solución efectiva para el monitoreo de ruido en lo
 
 \newcommand{\capitulos}{
     
-\capitulo{Marco teórico}{
-
+\capitulo{Marco teórico}{  
 \section{¿Qué es el ruido?}
 
-El término "ruido" significa simplemente "ruidos molestos". El ruido ambiental incluye, por ejemplo, el ruido del tráfico (vehículos de motor, trenes, aviones), el ruido industrial (máquinas) o el ruido del ocio (gritos fuertes o música, etc.). Sin embargo, la evaluación de la música en particular depende obviamente en gran medida de la percepción subjetiva; si es agradable, se llama "sonido" - de lo contrario "ruido". Dependiendo del país, hay diferentes regulaciones y leyes para regular el ruido ambiental. 
+El término ``ruido`` significa simplemente ``ruidos molestos``. El ruido ambiental incluye, por ejemplo, el ruido del tráfico (vehículos de motor, trenes, aviones), el ruido industrial (máquinas) o el ruido del ocio (gritos fuertes o música, etc.). Sin embargo, la evaluación de la música en particular depende obviamente en gran medida de la percepción subjetiva; si es agradable, se llama "sonido" - de lo contrario "ruido". Dependiendo del país, hay diferentes regulaciones y leyes para regular el ruido ambiental. 
 
 Éstos se diferencian entre distintos niveles, empezando por los ruidos molestos que perturban las actividades humanas o la vida silvestre, aumentan los niveles de estrés o de agresión o conducen a la alta presión sanguínea. En casos extremos, los niveles de ruido muy altos pueden tener efectos negativos duraderos en la salud, como la pérdida de audición, el tinnitus, los trastornos del sueño, el estrés agudo, los trastornos cardiovasculares o las enfermedades vasculares. En la naturaleza, el ruido provoca un aumento de la tasa de mortalidad tanto en los animales de presa como en los herbívoros debido a una percepción deteriorada, un comportamiento de apareamiento alterado o a la pérdida del sentido de orientación o de la audición.
             
@@ -232,13 +214,12 @@ El término "ruido" significa simplemente "ruidos molestos". El ruido ambiental 
  El reconocimiento del ruido como un peligro para la salud es reciente y sus efectos han pasado a ser considerados un problema sanitario cada vez más importante. Dicha contaminación es la primera causa de contaminación ambiental en Francia, y la segunda en toda Europa. De forma global, Japón es el país más ruidoso del mundo, seguido de España,considerando a Madrid una de las capitales más ruidosas en todo el mundo, según estudios realizados por la OMS.
         
 El ruido se define como un sonido indeseable, el sonido viaja en forma de ondas en el medio aéreo (o los cambios de presión) lo que produce la vibración del tímpano, el tímpano transfiere estas vibraciones a tres huesos minúsculos en el oído medio,los que a la vez comunican las vibraciones al fluido contenido en la cóclea (en el oído interno) Dentro de la cóclea se hallan las pequeñas terminales nerviosas usualmente conocidas como células ciliadas. Ellas responden a las vibraciones del fluido enviando los impulsos nerviosos al cerebro que entonce interpreta los impulsos como sonido o ruido.
-
-            \begin{figure}[H]
-              \centering
-              \includegraphics[width=0.7\textwidth]{img/Oido.jpg}
+           \begin{figure}[H]
+            \centering
+              \includegraphics[width=0.7\textwidth]{../img/Oido.jpg}
               \caption{Partes del oído. Fuente: [NHJNIDCD 2022]}
               \label{fig:oido}
-            \end{figure} 
+              \end{figure} 
         
  El ruido es considerado un peligro para la salud humana y sus efectos son catalogados como un problema sanitario cada vez más agravante. Puede causar desde insomnio, ansiedad, depresión, estrés, entre otros efectos psicológicos, hasta la pérdida parcial o total de la audición. Un ambiente que sobrepase los 55 decibelios (dB) es considerado un ambiente ruidoso, de 75 a 100dB es considerado un ambiente con ruido fuerte y superior a los 100dB es considerado un ambiente con ruido intolerable.
  
@@ -268,9 +249,10 @@ Una investigación y trabajo técnico identificado como "Afectación del ruido a
 
 Para maestros:
 \begin{itemize}
-    \item El ruido es contaminante que afecta al estado de ánimo e interfiere con las actividades.
+\sloppy
+    \item El ruido es contaminante que afecta al estado de ánimo e  interfiere con las actividades.
     \item El ruido provoca dolor de cabeza, estrés e irritabilidad.
-    \item El ruido provoca afonías y dolores de garganta en el profesorado al tener que elevar la voz.
+    \item El ruido provoca afonías y dolores de garganta en el  profesorado al tener que elevar la voz.
     \item El trafico vehicular es un problema que genera contaminación del aire y ruido por sus motores y claxon.
     \item Informar, educar y concientizar son elementos claves para minimizar la problemática
     \item La sociedad en su conjunto es responsable de poner en práctica medidas para abatir la problemática.
@@ -278,12 +260,13 @@ Para maestros:
 
 Para alumnos:
 \begin{itemize}
+\sloppy
     \item El ruido es un problema que interfiere con las actividades
     \item El ruido provoca dolor de cabeza y distracción.
-    \item El ruido provoca menor rendimiento escolar y, por lo tanto, mayor fracaso.
-    \item Ven incrementado drásticamente su nivel de irritabilidad y agresividad.
+    \item El ruido provoca menor rendimiento escolar y, por lo  tanto, mayor fracaso.
+    \item Ven incrementado drásticamente su nivel de irritabilidad  y agresividad.
     \item El ruido produce más dificultades para niños con necesidades educativas especiales.
-    \item Atendiendo medidas disciplinares en casa y escuela, y con no gritar contribuyo a disminuir la problemática.
+    \item Atendiendo medidas disciplinares en casa y escuela, y con  no gritar contribuyo a disminuir la problemática.
 \end{itemize}
 
 Además destacan que la contaminación acústica incide de manera directa en la formación de los estudiantes, atentando de manera negativa en el rendimiento escolar, debido a que un sonido no deseado es capaz de captar la atención de las personas de forma involuntaria, se crea una distracción, perdiendo la concentración en la tarea que se realizaba. Resaltan que la contaminación acústica ha aumentado significativamente en los últimos y su incremento se debe a factores tales como: crecimiento poblacional, incremento de actividades utilizando métodos mecánicos, y el uso masivo de vehículos. 
@@ -315,25 +298,22 @@ En el caso de niños sin alteraciones auditivas congénitas, se ha encontrado un
 \section{Sistema de monitoreo de ruido}
 En la fase 1 de este proyecto, se menciona acerca de la salud auditiva, el concepto del ruido y la medición del ruido utilizando la escala estandarizada basada en la unidad logarítmica para medir el sonido que son los decibelios (dB) \parencite{carpio2025}. Un sistema de monitoreo de ruido como tal concatena diversos términos y conocimientos a tomar en cuenta como lo son los siguientes: 
 
-\begin{itemize}
+\begin{itemize}\setlength{\itemsep}{0.8em}
 
-    \item \textbf{Monitoreo del ruido.} El Monitoreo del ruido implica el control del sonido a largo plazo sin necesidad de interacción humana. Hay dos tipos principales de control del sonido: el control del lugar de trabajo y el control del ruido ambiental, cada uno de los cuales depende de la ubicación de la fuente de sonido. El monitoreo del ruido ambiental es uno de los tipos más comunes de vigilancia del medio ambiente y se lleva a cabo con mayor frecuencia mediante un sistema de monitoreo.\parencite{Svantek2025MonitoreoDelRuido}
-    \vspace{1cm}
-    \item \textbf{Sistema de monitoreo de ruido.} El sistema de monitoreo, tal como se describe en la norma ISO 1996-2, comprende un monitor de ruido y un centro de recogida de datos, así como todo el hardware y el software utilizados para el monitoreo del ruido ambiental. \\\parencite{Svantek2025MonitoreoDelRuido}. 
-    Un sistema de monitoreo de ruido en línea es una tecnología avanzada que permite detectar y analizar continuamente los niveles de ruido en diversos contextos . Mantener este sistema en funcionamiento es fundamental para cumplir con las restricciones de ruido, especialmente en entornos urbanos, industriales y de construcción. Las ventajas de este enfoque son que no es necesario instalar ningún software, se puede acceder a los informes desde cualquier lugar con conexión a Internet y se pueden compartir los resultados fácilmente. \parencite{AdvanceTech2024}
-    \vspace{1cm}
-    \item \textbf{Monitor de ruido.} El término Monitor de Ruido también llamado «Terminal de Monitoreo de Ruido» (NMT) se refiere a la instrumentación utilizada para el monitoreo continuo automatizado del sonido que monitorea los niveles de presión sonora ponderados A, sus espectros, y todas las cantidades meteorológicas relevantes como la velocidad del viento, la dirección del viento, la lluvia, la humedad, la estabilidad atmosférica. \parencite{Svantek2025MonitoreoDelRuido}. El objetivo de un monitor de ruido es proporcionar datos sobre el nivel de ruido en un lugar para poder compararlo con los límites de ruido establecidos. Un monitor de ruido puede utilizarse para evaluar la calidad de varios tipos de ruido \parencite{Svantek2025MonitoreoDelRuido}. En nuestro caso el sensor MAX9814 funjirá como monitor de ruido del que se mencionan sus características y capacidades en la fase 1 de este trabajo \parencite{carpio2025}
+    \item \textbf{Monitoreo del ruido.} El monitoreo del ruido implica el control del sonido a largo plazo sin necesidad de interacción humana. Hay dos tipos principales de control del sonido: el control del lugar de trabajo y el control del ruido ambiental, cada uno de los cuales depende de la ubicación de la fuente de sonido. El monitoreo del ruido ambiental es uno de los tipos más comunes de vigilancia del medio ambiente y se lleva a cabo con mayor frecuencia mediante un sistema de monitoreo \parencite{Svantek2025MonitoreoDelRuido}.
 
-            \begin{figure}[h]
-              \centering
-              \includegraphics[width=0.7\textwidth]{img/sensor_MAX.png}
-              \caption{Sensor MAX9814 Amplificador de micrófono. Fuente: [https://uelectronics.com/producto/max9814-microfono-con-amplificador/?srsltid=AfmBOort2pf7QgsaA-ogOKnLHDUL3E_IBqhLa6qPKMN7thagmlp8w1PM]}
-              \label{fig:your_label}
-            \end{figure} 
-    \vspace{1cm}
-    \item \textbf{Vigilancia del ruido}. El monitoreo del ruido debe ocurrir siempre que exista el riesgo de sobrepasar los límites de los niveles de ruido. Como resultado de los estudios sobre las conexiones entre el ruido y la salud, así como de los procedimientos de elaboración de políticas en varios países, los gobiernos han establecido valores límite nacionales y reglamentos para el ruido ambiental. Dependiendo de la normativa local, los límites de dB permitidos para el ruido ambiental pueden variar. Normalmente, para el día, el límite de dB permitido es de 65 dBA, y para los niveles de ruido nocturnos, es de 55 dBA.
-    
-    El control de la calidad del ruido es el proceso de control continuo de los niveles de ruido en un entorno para garantizar que se mantienen dentro de los límites aceptables. Dependiendo de la aplicación, el control de la calidad del ruido puede llevarse a cabo de diversas maneras. \parencite{Svantek2025MonitoreoDelRuido}
+    \item \textbf{Sistema de monitoreo de ruido.} El sistema de monitoreo, tal como se describe en la norma ISO 1996-2, comprende un monitor de ruido y un centro de recogida de datos, así como todo el hardware y el software utilizados para el monitoreo del ruido ambiental \parencite{Svantek2025MonitoreoDelRuido}. Un sistema de monitoreo de ruido en línea es una tecnología avanzada que permite detectar y analizar continuamente los niveles de ruido en diversos contextos. Mantener este sistema en funcionamiento es fundamental para cumplir con las restricciones de ruido, especialmente en entornos urbanos, industriales y de construcción. Las ventajas de este enfoque son que no es necesario instalar ningún software, se puede acceder a los informes desde cualquier lugar con conexión a Internet y se pueden compartir los resultados fácilmente \parencite{AdvanceTech2024}.
+
+    \item \textbf{Monitor de ruido.} El término monitor de ruido, también llamado ``Terminal de Monitoreo de Ruido`` (NMT), se refiere a la instrumentación utilizada para el monitoreo continuo automatizado del sonido, que registra los niveles de presión sonora ponderados A, sus espectros y todas las cantidades meteorológicas relevantes como velocidad y dirección del viento, lluvia, humedad y estabilidad atmosférica \parencite{Svantek2025MonitoreoDelRuido}. El objetivo de un monitor de ruido es proporcionar datos sobre el nivel de ruido en un lugar para poder compararlo con los límites establecidos. En nuestro caso, el sensor MAX9814 funge como monitor de ruido, cuyas características y capacidades se mencionaron en la fase 1 de este trabajo \parencite{carpio2025}.
+ \begin{figure}[H]
+   \centering
+   \includegraphics[width=0.7\textwidth]{../img/sensor_MAX.png}
+   \caption{Sensor MAX9814 Amplificador de micrófono. Fuente: \url{https://uelectronics.com/producto/max9814-microfono-con-amplificador}}
+   \label{fig:sensorMAX}
+ \end{figure}
+
+    \item \textbf{Vigilancia del ruido.} El monitoreo del ruido debe ocurrir siempre que exista el riesgo de sobrepasar los límites de los niveles de ruido. Como resultado de los estudios sobre las conexiones entre el ruido y la salud, así como de los procedimientos de elaboración de políticas en varios países, los gobiernos han establecido valores límite nacionales y reglamentos para el ruido ambiental. Dependiendo de la normativa local, los límites de dB permitidos para el ruido ambiental pueden variar. Normalmente, para el día, el límite de dB permitido es de 65 dBA, y para los niveles de ruido nocturnos, de 55 dBA. El control de la calidad del ruido es el proceso de vigilancia continua de los niveles de ruido en un entorno para garantizar que se mantienen dentro de los límites aceptables \parencite{Svantek2025MonitoreoDelRuido}.
+\end{itemize}
 
 \section{Beneficios de un sistema de monitoreo de ruido}
 
@@ -349,16 +329,16 @@ Dado que la monitorización de ruido representa en general una medida de prevenc
     \vspace{1cm}
     \item \textbf{Registro y análisis de datos:} Registra automáticamente los datos de ruido a lo largo del tiempo, lo que facilita el análisis detallado y la generación de tendencias de los niveles de ruido. Esta función es esencial para comprender patrones e identificar fuentes específicas de ruido. \parencite{AdvanceTech2024}. Para el caso de este proyecto en la fase 1 se demostró que con los datos recopilados a lo largo del tiempo se generan y muestran gráficos de barras y líneas con los datos recopilados facilitan la comprensión de las tendencias de aumento y decremento de sonidos en los laboratorios del departamento de electrónica e informática \parencite{carpio2025}
     
-            \begin{figure}[h!]
-              \centering
-              \includegraphics[width=0.7\textwidth]{img/grafico_linea.png}
+            \begin{figure}[H]
+             \centering
+              \includegraphics[width=0.7\textwidth]{../img/grafico_linea.png}
               \caption{Componente de gráfica de línea. Fuente: \parencite{carpio2025}}
               \label{fig:your_label}
             \end{figure} 
 
-            \begin{figure}[h]
+            \begin{figure}[H]
               \centering
-              \includegraphics[width=0.7\textwidth]{img/grafico_barras.png}
+              \includegraphics[width=0.7\textwidth]{../img/grafico_barras.png}
               \caption{Componente de gráfica de barras. Fuente: \cite{carpio2025}}
               \label{fig:your_label}
             \end{figure}
@@ -367,17 +347,11 @@ Dado que la monitorización de ruido representa en general una medida de prevenc
 
 \section{Websockets}
 
-\begin{itemize}
-
 \subsection{¿qué es un websocket?}
 
-WebSockets es una tecnología basada en el protocolo ws, este hace posible establecer una conexión continua full-duplex, entre un cliente y servidor. Un cliente websocket podría ser el navegador del usuario, pero el protocolo es una plataforma independiente. Un servidor WebSocket es simplemente una aplicación TCP que escucha en cualquier puerto de un servidor que sigue un protocolo específico. Un servidor WebSocket puede ser escrito en cualquier lenguaje de programación Server-Side que sea soporte Berkeley Sockets, como por ejemplo C++ o Python o inclusive PHP y JavaScript para servidores.
+WebSockets es una tecnología basada en el protocolo ws, este hace posible establecer una conexión continua full-duplex, entre un cliente y servidor. Un cliente websocket podría ser el navegador del usuario, pero el protocolo es una plataforma independiente. Un servidor WebSocket es simplemente una aplicación TCP que escucha en cualquier puerto de un servidor que sigue un protocolo específico. Un servidor WebSocket puede ser escrito en cualquier lenguaje de programación Server-Side que sea soporte Berkeley Sockets, como por ejemplo C++ o Python o inclusive PHP y JavaScript para servidores.   
 
-\end{itemize}
-
-\end{itemize}
-    
-    }
+}
     \capitulo{Metodología}{
     
   \section{ Metodologia Scrum }
@@ -392,12 +366,14 @@ Scrum también se utiliza para resolver situaciones en que no se está entregand
 
 En Scrum un proyecto se ejecuta en ciclos temporales cortos y de duración fija (iteraciones que normalmente son de 2 semanas, aunque en algunos equipos son de 3 y hasta 4 semanas, límite máximo de feedback de producto real y reflexión). Cada iteración tiene que proporcionar un resultado completo, un incremento de producto final que sea susceptible de ser entregado con el mínimo esfuerzo al cliente cuando lo solicite. 
 
-            \begin{figure}[H]
-              \centering
-              \includegraphics[width=0.7\textwidth]{img/MetodologiaScrum.jpeg}
-              \caption{Proceso Scrum. Fuente: [\cite{scrum2021}]}
-              \label{fig:scrum}
-            \end{figure}Cada día el equipo realiza una reunión de sincronización (15 minutos), normalmente delante de un tablero físico o pizarra (Scrum Taskboard). El equipo inspecciona el trabajo que el resto está realizando (dependencias entre tareas, progreso hacia el objetivo de la iteración, obstáculos que pueden impedir este objetivo) para poder hacer las adaptaciones necesarias que permitan cumplir con la previsión de objetivos a mostrar al final de la iteración. En la reunión cada miembro del equipo responde a tres preguntas: 
+ \begin{figure}[H]
+  \centering
+  \includegraphics[width=0.7\textwidth]{../img/Metodologia Scrum.jpeg}
+  \caption{Proceso Scrum. Fuente: [\cite{scrum2021}]}
+  \label{fig:scrum}
+  \end{figure} 
+
+Cada día el equipo realiza una reunión de sincronización (15 minutos), normalmente delante de un tablero físico o pizarra (Scrum Taskboard). El equipo inspecciona el trabajo que el resto está realizando (dependencias entre tareas, progreso hacia el objetivo de la iteración, obstáculos que pueden impedir este objetivo) para poder hacer las adaptaciones necesarias que permitan cumplir con la previsión de objetivos a mostrar al final de la iteración. En la reunión cada miembro del equipo responde a tres preguntas: 
 
 \begin{itemize}
     \item ¿Qué he hecho desde la última reunión de sincronización para ayudar al equipo a cumplir su objetivo?
@@ -451,7 +427,7 @@ Marcos Antonio Hernández Grande & Encargado de QA/Testing automatizado \\
 
 \vspace{0.5cm}
 \centering
-\small Fuente: [\cite{scrum2021}]
+\small Fuente: [Elaboración propia]
 \end{table}
 
 En nuestro proceso Scrum acordamos realizar reuniones semanales entre una y dos veces por semana, con el objetivo de definir las tareas y metas a cumplir, así como elaborar un cronograma de actividades que facilite la organización y el desarrollo del proyecto.
@@ -460,10 +436,30 @@ El trabajo se estructuró en sprints con una duración de 1 a 2 semanas, según 
 
 Durante las reuniones, cada miembro compartía los avances logrados, las dificultades encontradas y se realizaba una revisión general del progreso del proyecto para asi lograr un resultado exitoso.
 
-    }
-    \capitulo{Presentación, análisis e interpretación de resultados}{
+\section{Cronograma de Actividades}
+
+ \vspace{1em}
+  
+   \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.7\textwidth]{../img/Cronograma .jpeg}
+     \caption{Cronograma de actividades. Fuente: [Elaboración Propia]}
+     \label{fig:cronograma1}
+    \end{figure} 
+
+    \begin{figure}[H]
+    \centering
+      \includegraphics[width=0.7\textwidth]{../img/Cronograma 2.jpeg}
+      \caption{Cronograma de actividades. Fuente: [Elaboración Propia]}
+      \label{fig:cronograma}
+       \end{figure}
+
+
+}
+\capitulo{Presentación, análisis e interpretación de resultados}{
     En esta sección de debe explicar cómo los resultados se derivan de las mediciones realizadas. Pueden añadirse diagramas para clarificar el diseño experimental, gráficos y tablas para ilustrar mejor los resultados. Por otra parte, en el análisis e interpretación de los resultados se debe responder a la pregunta planteada en la introducción. Es necesario hacer énfasis en porqué sus resultados son relevantes. Finalmente plantee las fortalezas y las debilidades de su estudio.
     }
+
     \capitulo{Formato de los trabajos}{
     A continuación, se muestran las características principales del formato de trabajos de graduación creado por la facultad de ingeniería y arquitectura de la UCA.
     
@@ -604,6 +600,7 @@ Durante las reuniones, cada miembro compartía los avances logrados, las dificul
     }
 }
 
+
 %=================================================================
 %       Sección editable para conclusiones y recomendaciones
 % ================================================================
@@ -640,3 +637,4 @@ En esta sección, se presentan las recomendaciones hechas por el grupo de trabaj
      En los anexos se colocan los documentos, gráficos, tablas, imágenes u otros materiales complementarios que proporcionan información adicional relevante, pero que no forman parte del cuerpo principal del trabajo.
     }
 }
+
